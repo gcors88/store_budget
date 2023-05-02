@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/glauber/Documents/store_budget/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_1db9c802"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/glauber/Documents/store_budget/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_53cf65fa"
+  }
+]
